@@ -7,3 +7,6 @@ if you have any suggestions please send them to my email `GregoriousAMWD@proton.
 USAGE: have both files in the same folder and run the script with `python game_downloader.py` in your preffered terminal.
 
 
+**Use the script at your own risk.**
+I, am not responsible for anything that happends for using the script.
+
